@@ -22,3 +22,9 @@ Locus of Control means the degree to which you believe you have control over you
 - Seek out constructive feedback  
 - Practice resilience in failure  
 - Cultivate a habit of self-reflection and improvement
+
+## References
+
+* [Grit - YouTube](https://www.youtube.com/watch?v=H14bBuluwB8)
+* [Growth Mindset - YouTube](https://www.youtube.com/watch?v=75GFzikmRY0)
+* [How to build a Growth Mindset - YouTube](https://www.youtube.com/watch?v=9DVdclX6NzY)
