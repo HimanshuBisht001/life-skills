@@ -40,9 +40,10 @@ I might switch to a passive communication style when:
 ---
 
 ## Question 6: When Do You Switch to an Aggressive Communication Style?
-- You are frustrated, angry, or feel disrespected.  
-- You want to assert control in a situation.  
-- You are in a hurry or feel like you're not being heard.  
+I might switch to a Aggressive communication style when:
+- I frustrated, angry, or feel disrespected.  
+- I want to assert control in a situation.  
+- I am in a hurry or feel like you're not being heard.  
 
 ---
 
@@ -53,7 +54,7 @@ I might switch to a passive Aggressive communication style when:
 
 ---
 
-## Solution 8: How to Make Your Communication Assertive
+## Question 8: How to Make Your Communication Assertive
 1. **Stay calm**: Keep your emotions in check before speaking.  
 2. **Be clear**: Express your thoughts and needs directly and respectfully.  
 3. **Use "I" statements**: Say things like "I feel..." instead of blaming others.  
