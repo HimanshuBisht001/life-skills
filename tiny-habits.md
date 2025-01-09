@@ -14,11 +14,11 @@
 - **P (Prompt)**: A cue or reminder that triggers the behavior, such as completing one task leading to the next.
 
 
-### Question 3: Why it is important to "Shine" or Celebrate after each successful completion of a habit?
+## Question 3: Why it is important to "Shine" or Celebrate after each successful completion of a habit?
 
 Celebrating after completing a habit helps make it stick by creating positive feelings. It makes the habit easier to repeat because your brain starts to connect it with feeling good. Celebrating also keeps you motivated and makes the habit more enjoyable, which helps you stay consistent. When you feel successful, you're more likely to keep going and build the habit over time.
 
-### Question 4: What was the most interesting story or idea for you in this video?
+## Question 4: What was the most interesting story or idea for you in this video?
 
 - **Failure Prevention Strategy**:This strategy is about planning ahead to avoid problems. It helps you think of ways to handle challenges before they happen. The idea is to stay consistent, even if you miss a day now and then. The goal is to not miss two days in a row, so you don’t lose your progress.
 
