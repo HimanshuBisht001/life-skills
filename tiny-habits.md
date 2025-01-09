@@ -44,7 +44,7 @@ Making a habit easier is about making it simple and convenient:
 
 Making a habit harder means adding steps that make it more difficult to do:
 
-- **Increase obstacles:**Add extra steps that make the habit less easy to do..
+- **Increase obstacles:** Add extra steps that make the habit less easy to do..
 - **Remove triggers:** Get rid of things in your environment that remind you to do the habit.
 - **Use commitment tools::**  Create consequences or make it harder to engage in the habit by setting up restrictions..
 
