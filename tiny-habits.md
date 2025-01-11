@@ -68,3 +68,8 @@ Steps to improve the habit:
 - **Make it less appealing:** Remind yourself of the wasted time and what you could be achieving instead.
 - **Increase the effort:** Set time limits for social media use or use apps that block access during certain hours.
 
+### References
+* [Tiny Habit Video](https://www.youtube.com/watch?v=AdKUJxjn-R8)
+* [Tiny Habit By BJ Fogg](https://www.youtube.com/watch?v=S_8e-6ZHKLs)
+* [1% Better Every Day Video](https://www.youtube.com/watch?v=mNeXuCYiE0U)
+* [Book Summary of Atomic Habits](https://www.youtube.com/watch?v=YT7tQzmGRLA)
