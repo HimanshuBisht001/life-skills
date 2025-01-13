@@ -46,7 +46,7 @@
 - Enhances Sleep Quality
 - Improves Cognitive Performance
 
-## Question 7 - What are some steps you can take to exercise more?
+## Question 6 - What are some steps you can take to exercise more?
 
 - Develop a regular workout schedule
 - Explore different physical activities
