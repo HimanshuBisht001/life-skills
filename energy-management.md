@@ -46,7 +46,15 @@
 - Enhances Sleep Quality
 - Improves Cognitive Performance
 
-## Question 6 - What are some steps you can take to exercise more?
+## Question 6 - Paraphrase the video - Brain Changing Benefits of Exercise. Minimum 5 points, only the points.
+
+- Exercise boosts brain function and helps improve memory.
+- Regular physical activity reduces stress and anxiety.
+- It promotes better sleep and helps improve mood.
+- Exercise enhances brain plasticity, which supports learning.
+- Physical activity helps prevent cognitive decline as we age.
+
+## Question 7 - What are some steps you can take to exercise more?
 
 - Develop a regular workout schedule
 - Explore different physical activities
